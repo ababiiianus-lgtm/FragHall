@@ -1,0 +1,12 @@
+{
+  "name": "frag-hall",
+  "version": "1.0.0",
+  "description": "Frag Hall - Doom, Quake and Serious Sam community site",
+  "main": "frag-hall.js",
+  "scripts": {
+    "start": "node frag-hall.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
